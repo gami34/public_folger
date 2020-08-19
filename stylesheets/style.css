@@ -1,0 +1,32 @@
+header,footer,aside,section,article, body {
+  margin:0px;
+  padding:0px;
+}
+
+
+.full-window{
+  height: 100vh;
+  width: auto;
+}
+
+.theme-1{
+  background: #2D7C8B;
+}
+.theme-2{
+  background: #52939F;
+}
+.theme-3{
+  background: #2D7C8B;
+}
+.theme-4{
+  background: #2D7C8B;
+}
+.theme-5{
+  background: #2D7C8B;
+}
+
+bg-trnasparent{
+  background-color: transparent;
+}
+
+
